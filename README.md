@@ -1,6 +1,6 @@
 # Exemplo de aplicação PHP para a disciplina de Prog. Web
 
-## Demonstração
+## Resultado
 
 [Acesse o trabalho] (http://stormy-reaches-85639.herokuapp.com/)
 
